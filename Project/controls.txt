@@ -1,0 +1,8 @@
+Controls up arrow - forward
+	 down arrow - backward
+         left arrow - left
+	 right arrow - right
+	 c- shoot
+	 v-descend
+	 spacebar - ascend
+	 ctrl- turn
